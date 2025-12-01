@@ -1,0 +1,19 @@
+{
+  "routerMap": [
+    {
+      "name": "Records",
+      "pageSourceFile": "src/main/ets/pages/Records.ets",
+      "buildFunction": "RecordsPageBuilder"
+    },
+    {
+      "name": "Main",
+      "pageSourceFile": "src/main/ets/pages/Main.ets",
+      "buildFunction": "MainBuilder"
+    },
+    {
+      "name": "WeightChart",
+      "pageSourceFile": "src/main/ets/pages/WeightChart.ets",
+      "buildFunction": "WeightChartBuilder"
+    }
+  ]
+}
